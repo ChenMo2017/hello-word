@@ -1,2 +1,2 @@
 # hello-word
-just another repository
+Nothing here,just an empty repository
